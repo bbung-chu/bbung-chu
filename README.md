@@ -8,11 +8,10 @@
 ## 🛠 보유 기술 스택 (Tech Stacks)
 
 ### 데이터 분석 및 머신러닝
-<img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=Scikit-Learn&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4E9A06?style=flat-square&logo=BeautifulSoup&logoColor=white)
 
 ### 데이터 시각화
-<img src="https://shields.io"/> <img src="https://shields.io"/>
-
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat-square&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=Seaborn&logoColor=white)
 <br>
 
 ## 🚀 대표 프로젝트 (Featured Project)
