@@ -30,7 +30,6 @@
 *(※ 예스24 국내도서 TOP 100 데이터 정제 및 가격/출판사별 시각화 분석 결과물입니다.)*
 
 <br>
-
 ## 📈 활동 통계 (GitHub Stats)
 
 | GitHub Stats | Top Languages |
@@ -38,4 +37,5 @@
 | ![bbung-chu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbung-chu&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbung-chu&layout=compact&theme=dark) |
 
 ---
+
 📧 **Contact**: [kidde04@gmail.com]
