@@ -36,7 +36,6 @@
 | GitHub Stats | Top Languages |
 | :---: | :---: |
 | ![bbung-chu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbung-chu&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbung-chu&layout=compact&theme=dark) |
-| :---: | :---: |
 
 ---
 📧 **Contact**: [kidde04@gmail.com]
