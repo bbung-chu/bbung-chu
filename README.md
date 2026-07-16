@@ -26,7 +26,7 @@
   - **트렌드 분석**: 연도별/월별 특정 장르(예: 투자/재테크, 힐링 에세이 등)의 순위 진입 빈도를 분석하여, 당시의 사회·경제적 관심사와의 연관성을 도출했습니다.
   - **데이터 시각화**: `Seaborn`과 `Matplotlib`을 활용해 도서 가격대 분포 및 판매량 추이를 다각도로 시각화하여 데이터 기반의 인사이트를 직관적으로 표현했습니다.
 
-👉 **[구글 스프레드시트로 분석 리포트 보기](https://docs.google.com/spreadsheets/d/1QHfaXfYsS9zDNOHq4Lp2t08fmzk6xKnq_Sx8dAKFhYY/edit?usp=sharing)** 📊
+👉 **[구글 스프레드시트로 분석 리포트 보기](https://docs.google.com/presentation/d/1zlWtfUXxtInjB0qP0wi-yHY8SLK5fzySr0bgJkKDloI/edit?usp=sharing)** 📊
 *(※ 예스24 국내도서 TOP 100 데이터 정제 및 가격/출판사별 시각화 분석 결과물입니다.)*
 
 <br>
@@ -34,8 +34,7 @@
 
 | GitHub Stats | Top Languages |
 | :---: | :---: |
-| ![bbung-chu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbung-chu&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbung-chu&layout=compact&theme=dark) |
-
+| ![bbung-chu's GitHub stats ](https://github-readme-stats.vercel.app/api?username=bbung-chu&show_icons=true&theme=dark) | ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=bbung-chu&layout=compact&theme=dark) |
 ---
 
 📧 **Contact**: [kidde04@gmail.com]
