@@ -183,7 +183,7 @@ AI Development
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbung-chu&show_icons=true&theme=transparent)
 
 <br>
 
@@ -191,7 +191,7 @@ AI Development
 
 ## 📫 Contact
 
-📧 **Email**: [kidde04@gmail.com](mailto:kidde04@gmail.com)
+📧 **Email**: [kidde04@gmail.com](mailto:kidde04@gmail.com)g
 
 💻 **GitHub**: [@bbung-chu](https://github.com/bbung-chu)
 
