@@ -109,9 +109,7 @@
 
 `Python` `Pandas` `BeautifulSoup` `Matplotlib` `Seaborn`
 
-📊 **[Analysis Report](#)**
-
-🔗 **[Repository](#)**
+📊 **[Analysis Report](https://docs.google.com/presentation/d/1zlWtfUXxtInjB0qP0wi-yHY8SLK5fzySr0bgJkKDloI/edit?usp=sharing)**
 
 <br>
 
