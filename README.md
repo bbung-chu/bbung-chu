@@ -1,202 +1,127 @@
-# 👋 안녕하세요, 이우석입니다.
+<div align="center">
 
-### 📊 Data Analyst · 🤖 AI Developer
+# 👋 Hi, I'm Wooseok Lee
 
-데이터를 통해 문제를 발견하고,
-분석과 머신러닝을 활용해 데이터 속에 숨겨진 의미를 찾아가는 과정에 관심이 있습니다.
+### Data Science Undergraduate
 
-현재 **Python 기반 데이터 분석과 머신러닝**을 공부하며
-데이터 수집부터 전처리, 탐색적 데이터 분석, 시각화, 모델링까지 다양한 프로젝트를 경험하고 있습니다.
+데이터를 수집하고 분석하여 문제를 발견하고,  
+**데이터 기반 의사결정과 머신러닝을 통해 해결하는 과정**을 공부하고 있습니다.
 
-> **"단순히 데이터를 보는 것을 넘어, 데이터 속에서 문제를 발견하고 해결하는 사람"**을 목표로 성장하고 있습니다.
-
-<br>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Projects
 
-### 💻 Languages
+### 📚 YES24 Bestseller Trend Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=Python\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=R\&logoColor=white)
+> **YES24 국내도서 베스트셀러 TOP120의 24개월 트렌드 분석**
 
-### 📊 Data Analysis
+2024년 5월부터 2026년 4월까지 YES24 국내도서 월별 베스트셀러 TOP120 데이터를 직접 수집하여  
+**장기 베스트셀러의 특징, 순위 변화, 출판사별 등장 빈도, 가격 추이**를 분석했습니다.
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=Pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=NumPy\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=Scikit-Learn\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white">
+  <img src="https://img.shields.io/badge/XPath-4B5563?style=flat-square">
+  <img src="https://img.shields.io/badge/IMPORTXML-34A853?style=flat-square">
+  <img src="https://img.shields.io/badge/EDA-2563EB?style=flat-square">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-6366F1?style=flat-square">
+</p>
 
-### 📈 Data Visualization
+**Dataset**
+- 24개월 × TOP120
+- 총 **2,880건**
+- 고유 도서 **1,381권**
+- 고유 출판사 **432곳**
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat-square\&logo=Matplotlib\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square\&logo=Seaborn\&logoColor=white)
+**What I did**
+- `IMPORTXML`과 `XPath`를 활용한 웹 데이터 직접 수집
+- 저자·역자 등 복합 문자열 데이터 정제
+- 베스트셀러 장기 체류 도서 분석
+- 도서별 24개월 순위 변화 추적
+- 출판사별 베스트셀러 등장 빈도 분석
+- 월별 베스트셀러 평균 가격 변화 분석
 
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=Git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=GitHub\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=Visual-Studio-Code\&logoColor=white)
-
-<br>
-
----
-
-## 🏅 Certifications
-
-| Certificate | Issuing Organization | Date  |
-| ----------- | -------------------- | ----- |
-| 컴퓨터활용능력 2급      | 대한상공회의소       | 25.04.22 |
-| 네트워크 관리사 2급      | 한국정보통신자격협회 | 25.09.30 |
-
-<br>
-
----
-
-## 🚀 Featured Projects
-
-### 🏙️ 청년은 왜 특정 지역을 떠나는가?
-
-> **지역별 청년인구 순이동 결정요인 및 청년 유출 요인 분석**
-
-🚧 **Project Status: In Progress**
-
-지역별 청년 인구 이동 데이터를 분석하여 청년이 특정 지역을 떠나는 현상을 파악하고,
-일자리·주거·교육·지역경제·생활환경 등의 요인이 청년 인구 이동과 어떤 관계를 가지는지 탐색하는 프로젝트입니다.
-
-**🔍 Key Questions**
-
-* 청년 인구가 많이 유출되는 지역은 어디인가?
-* 청년 유출과 일자리·고용 환경은 어떤 관계가 있는가?
-* 주거비와 청년 인구 이동 사이에는 어떤 관계가 있는가?
-* 대학 및 교육 환경이 청년 인구 유입에 영향을 미치는가?
-* 청년 유출에 가장 큰 영향을 미치는 요인은 무엇인가?
-
-**📊 Data**
-
-`청년 인구 이동` `연령별 인구` `고용·실업` `지역경제` `주거비` `교육`
-
-**🧪 Analysis**
-
-`EDA` `Correlation Analysis` `Regression` `Clustering` `Machine Learning`
-
-**🛠️ Tech Stack**
-
-`Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn`
-
-🔗 **[Repository](#)**
-
-<br>
+<p>
+  <a href="https://docs.google.com/presentation/d/1zlWtfUXxtInjB0qP0wi-yHY8SLK5fzySr0bgJkKDloI/edit">
+    <img src="https://img.shields.io/badge/📊%20Analysis%20Report-Google%20Slides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=white">
+  </a>
+</p>
 
 ---
 
-### 📚 예스24 국내도서 TOP 100 트렌드 추적 및 분석
+### ☕ Seoul Cafe Location Intelligence
 
-> **웹 크롤링과 데이터 시각화를 활용한 국내 도서 시장 및 소비 트렌드 분석**
+> **서울시 상권 데이터를 활용한 카페 신규 입지 의사결정 시스템**
 
-예스24 국내도서 베스트셀러 데이터를 수집하고 분석하여
-시기별 인기 장르의 변화와 도서 시장의 소비 트렌드를 탐색한 프로젝트입니다.
+🚧 **In Progress**
 
-**🔍 Key Points**
+서울시의 상권·매출·유동인구·점포·직장인구 등 여러 공공데이터를 결합하여  
+**카페 상권 특성과 폐업 위험을 분석하고, 머신러닝을 활용해 신규 입점에 적합한 상권을 추천하는 프로젝트**입니다.
 
-* BeautifulSoup 기반 웹 크롤링을 통한 베스트셀러 데이터 수집
-* 도서명·저자·출판사·가격·장르 데이터 전처리 및 정형화
-* 연도별·월별 장르별 순위 변화 분석
-* 도서 가격대 및 출판사별 분포 분석
-* 데이터 시각화를 통한 도서 시장 트렌드 탐색
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square">
+  <img src="https://img.shields.io/badge/SHAP-7C3AED?style=flat-square">
+</p>
 
-**🛠️ Tech Stack**
+**Project Pipeline**
 
-`Python` `Pandas` `BeautifulSoup` `Matplotlib` `Seaborn`
+`Public Data` → `Data Cleaning` → `SQL Data Mart` → `EDA & Statistics` → `Machine Learning` → `Location Recommendation`
 
-📊 **[Analysis Report](https://docs.google.com/presentation/d/1zlWtfUXxtInjB0qP0wi-yHY8SLK5fzySr0bgJkKDloI/edit?usp=sharing)**
+**Main Questions**
+- 어떤 상권에서 카페 매출이 높은가?
+- 어떤 특성을 가진 상권에서 폐업 위험이 높은가?
+- 다음 분기 카페 폐업 위험을 예측할 수 있는가?
+- 다음 분기 점포당 매출을 예측할 수 있는가?
+- 신규 카페 입점에 적합한 상권은 어디인가?
 
-<br>
+**Planned Modeling**
+- 폐업 위험 예측 `Classification`
+- 다음 분기 점포당 매출 예측 `Regression`
+- SHAP 기반 모델 해석
+- 예상 매출 + 폐업 위험 + 경쟁도를 결합한 입지 추천
 
 ---
 
-### 🌾 천안시 AI·데이터 기반 정책 아이디어
+## 🛠 Tech Stack
 
-> **지역 문제를 데이터와 AI로 분석하고 해결방안을 탐색하는 정책 아이디어 프로젝트**
+### Data Analysis & ML
 
-천안시가 직면한 지역 문제를 데이터 기반으로 분석하고,
-공공데이터와 AI 기술을 활용하여 정책적 해결방안을 제안하는 프로젝트입니다.
+<p>
+  <img src="https://skillicons.dev/icons?i=python">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+</p>
 
-**🔍 Key Points**
+### Database & Tools
 
-* 지역사회 문제 발굴 및 문제 정의
-* 공공데이터 기반 지역 현황 분석
-* AI·데이터 기반 정책 아이디어 도출
-* 데이터 분석 결과를 활용한 정책적 해결방안 탐색
-
-**🛠️ Tech Stack**
-
-`Python` `Pandas` `Data Analysis` `Machine Learning`
-
-🚧 **Project Status: In Progress**
-
-🔗 **[Repository](#)**
-
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode">
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-* 📊 **Statistics & Probability**
-* 🧮 **Mathematics for AI**
-* 🤖 **Machine Learning**
-* 🧠 **Deep Learning**
-* 👁️ **Computer Vision**
-* 🗄️ **SQL & Database**
-* 🐍 **Python Data Analysis**
-* 📈 **Data Visualization**
-
-<br>
+`Statistics` · `Machine Learning` · `SQL`
 
 ---
 
-## 🎯 My Direction
+## 🎯 Interests
 
-```text
-Data Analysis
-      │
-      ▼
-Statistical Thinking
-      │
-      ▼
-Machine Learning
-      │
-      ▼
-Deep Learning
-      │
-      ▼
-AI Development
-```
-
-데이터를 수집하고 분석하는 능력을 기반으로
-머신러닝과 딥러닝까지 역량을 확장하여 **데이터로 문제를 정의하고 AI로 해결할 수 있는 개발자**로 성장하는 것을 목표로 하고 있습니다.
-
-<br>
+**Data Science** · **Machine Learning** · **Business Analytics** · **User Behavior Analysis** · **AI/ML**
 
 ---
 
-## 📊 GitHub Activity
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bbung-chu&show_icons=true&theme=transparent)
+### 데이터를 설명하는 것에서 끝나지 않고,  
+### 데이터로 의사결정을 만들 수 있는 Data Scientist를 목표로 합니다.
 
-<br>
-
----
-
-## 📫 Contact
-
-📧 **Email**: [kidde04@gmail.com](mailto:kidde04@gmail.com)
-
-💻 **GitHub**: [@bbung-chu](https://github.com/bbung-chu)
-
-<br>
-
----
-
-### 💡 *"데이터에서 질문을 찾고, 분석을 통해 답을 찾아갑니다."*
+</div>
